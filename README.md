@@ -296,3 +296,10 @@ Before using in production:
 ## 📄 License
 
 This code is for educational purposes only. Use at your own risk in production environments.
+
+## Image Test
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
